@@ -1,39 +1,7 @@
 import tkinter as tk
 import time
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 test = False
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 wordList = [['DIVE', 'V         N'], 
             ['F', 'F         R'], 
